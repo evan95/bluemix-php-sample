@@ -2,8 +2,8 @@
 echo "apt-get -qq update"
 sudo apt-get -qq -y update
 
-echo "apt-get -qq -y install python3"
-sudo apt-get -qq -y install python3
+echo "apt-get -qq -y install python2.7 python-pip"
+sudo apt-get -qq -y install python2.7 python-pip
 python --version
 
 echo "apt-get -qq -y install python-dev libssl-dev libffi-dev"
