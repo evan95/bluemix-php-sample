@@ -7,14 +7,14 @@ If you want to try into Private, I suggest reviewing Cloud Foundry offerings in 
 
 
 ### Suggested reading before you move ahead
-[What is Ansible in a brief](https://learning.oreilly.com/library/view/ansible-quick-start/9781789532937/01c6351e-bb66-4de0-832a-8999fa6c724e.xhtml)
-[Architecture](https://docs.ansible.com/ansible/2.5/dev_guide/overview_architecture.html)
-[Inventory](https://docs.ansible.com/ansible/latest/user_guide/intro_inventory.html#assigning-a-variable-to-one-machine-host-variables)
-[YAML Syntax](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
-[AD-hoc commands](https://docs.ansible.com/ansible/latest/user_guide/intro_adhoc.html)
-[Ansible Cloud Modules](https://docs.ansible.com/ansible/latest/modules/list_of_cloud_modules.html)
-[Windows Modules](https://docs.ansible.com/ansible/latest/modules/list_of_windows_modules.html)
-[Playbook example](https://github.com/ansible/ansible-examples)
+- [What is Ansible in a brief](https://learning.oreilly.com/library/view/ansible-quick-start/9781789532937/01c6351e-bb66-4de0-832a-8999fa6c724e.xhtml)
+- [Architecture](https://docs.ansible.com/ansible/2.5/dev_guide/overview_architecture.html)
+- [Inventory](https://docs.ansible.com/ansible/latest/user_guide/intro_inventory.html#assigning-a-variable-to-one-machine-host-variables)
+- [YAML Syntax](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html)
+- [AD-hoc commands](https://docs.ansible.com/ansible/latest/user_guide/intro_adhoc.html)
+- [Ansible Cloud Modules](https://docs.ansible.com/ansible/latest/modules/list_of_cloud_modules.html)
+- [Windows Modules](https://docs.ansible.com/ansible/latest/modules/list_of_windows_modules.html)
+- [Playbook example](https://github.com/ansible/ansible-examples)
 
 ### Running the application locally
 In case you want to test the application locally, clone the application to your local directory and follow the next steps.
