@@ -1,8 +1,8 @@
 # Using ansible into delivery pipeline, IBM Cloud
-This tutorial is based on the following [Link]( https://developer.ibm.com/recipes/tutorials/run-ansible-from-your-ibm-bluemix-devops-pipelines/), which had scripts updated to attend the current IBM Cloud software version.
+This tutorial is based on the following [Link]( https://developer.ibm.com/recipes/tutorials/run-ansible-from-your-ibm-bluemix-devops-pipelines/), which had scripts updated to attend the current IBM Public Cloud software version.
 
-If you are into internal Github stop right now and move to Public Github. This example is supposed to be built into Public IBM Cloud.
-If you want to try into Private, I suggest reviewing Cloud Foundry offerings in order to fix that error: ```sudo: no tty present and no askpass program specified```
+**If you are into internal Github, remember that this guid is for Public IBM Cloud**, so consider using this link to GitHub where you can Fork, or git clone the current project and put it into your own public github.
+If you want to try into Private you can continue on that project as internal GitHub, but attention, I suggest reviewing Cloud Foundry offerings in order to fix that error you will face: ```sudo: no tty present and no askpass program specified```
 
 
 
