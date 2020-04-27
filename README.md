@@ -89,8 +89,8 @@ This is how your application looks like:
 ### Set the host name
 - Select the Delivery Pipeline tile from  the toolchain view to open the pipeline stages view.
 ![Tool Chain View](https://developer.ibm.com/recipes/wp-content/uploads/sites/41/2017/02/PipelineTileSelected.png)
-- The pipeline executes immediately after being created. That's supposed to FAIL. That's because IBM Cloud has been updated and needs to have their current software version installed. In this case, you will have php v5 in the current script, we are supposed to change it to the latest version. A simple ```sudo apt-get install php``` is supposed to install the latest version, but in this example we want you to see how to edit script.
-    - For that, select the Delivery Pipeline and clicle on Build box, click on the engine buttom and select Configure Stage and enter the new script:
+- **The pipeline executes immediately after being created. That's supposed to FAIL**. That's because IBM Cloud has been updated and needs to have their current software version installed. In this case, you will have php 5 in the current script, we are supposed to change it to the latest version. A simple ```sudo apt-get install php``` is supposed to install the latest version, but in this example we want you to see how to edit script.
+    - For that, select the Delivery Pipeline and clicle on Build box, click on the engine buttom and select Configure Stage. **On the Entrance tab, select the delivery-pipeline-ansible project. And also enter with the new script:**
 ```
 #!/bin/bash
 #Install PJP
